@@ -11,4 +11,7 @@ public class NimGame {
         int number = 4;
         System.out.println(canWinGame(number));
     }
+    public void test1(){
+    	System.out.println("HELLO WORDL");
+    }
 }
